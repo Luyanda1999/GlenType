@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Money App</string>
+    <string name="tab_text_1">Main</string>
+    <string name="tab_text_2">Deposit</string>
+    <string name="tab_text_3">With Draw</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="registered">REGISTER</string>
+</resources>
